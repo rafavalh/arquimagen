@@ -398,12 +398,12 @@ header.main-header:before {
 .header-logo {
 	float:left;
 	position:relative;
-	top:30px;
+	top:23px;
 }
 .header-logo img {
 	float:left;
 	width: auto;
-	height:26px;
+	height:42px;
 }
 .nav-button-wrap {
 	right:0;
